@@ -1,0 +1,1 @@
+system.out.rint("Hello");
